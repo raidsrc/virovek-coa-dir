@@ -1,0 +1,5 @@
+ Options +Indexes +ExecCGI
+ IndexOptions NameWidth=*
+ ErrorDocument 404 https://virovek.com/coa/not-found.html
+ RewriteEngine on
+ AddHandler cgi-script .py
