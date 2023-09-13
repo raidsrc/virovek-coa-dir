@@ -1,0 +1,9 @@
+Certificates of Analysis names should look like this:
+"CoA Lot #23-266 AAV5-CMV-GFP & #23-271 AAV5-Empty"
+That's CoA, followed by Lot, followed by the lot number and virus name of all of the viruses included in the certificate of analysis. 
+Repeat if needed.
+"CoA Lot #00-001 AAV1-Empty & #00-002 AAV2-Empty & #00-003 AAV3-Empty"
+If it gets exceedingly long, remove the ampersands and virus names.
+"CoA Lot #00-001 #00-002 #00-003 #00-004 #00-005"
+
+Sometimes I'll need to make a copy of a pdf if there is CoA data for more than one virus on it. This is so I can put each copy in its designated virus name folder. These copies will have " - Copy" at the end.
